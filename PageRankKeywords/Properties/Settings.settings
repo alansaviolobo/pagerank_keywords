@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PageRankKeywords.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchStartFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.google.com/search?q={0}</Value>
+    </Setting>
+    <Setting Name="BlacklistFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">blacklist.txt</Value>
+    </Setting>
+    <Setting Name="SilverlistFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">silverlist.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
